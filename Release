@@ -1,0 +1,9 @@
+Origin: kgfromthemv's Repo
+Label: kgfromthemv's Repo
+Suite: stable
+Version: 1.0
+Codename: kgfromthemv
+Architectures: iphoneos-arm
+Components: main
+Description: kgfromthemv's Repo
+MD5Sum:
