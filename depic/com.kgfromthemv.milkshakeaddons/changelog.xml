@@ -1,0 +1,36 @@
+<changelog>
+    <changes>
+		<version>1.1.3</version>
+        <change>fixed Google Fiber icon to be more in-line with other Google icons. Added Vasa Fitness Icon. </change>
+		<version>1.1.2</version>
+        <change>added icons for Amazon Prime Video, Google Authenticator, Cleartune, AppAdviceDaily, LDS tools, LDS Music, Trello and Maverik Rewards.</change>
+		<version>1.1.1</version>
+        <change>fixed the sizing on the Apple TV Remote icon.</change>
+		<version>1.1</version>
+        <change>created a mach_portal icon for the iOS 10.1.1 JB. Also added icons for narwhal, Mario Run, Discord, RedLaser, and the new Apple TV Remote.</change>
+		<version>1.0.11</version>
+        <change>added a simple mach_portal icon found on reddit.</change>
+		<version>1.0.10</version>
+        <change>fixed FTL Icon to better match Milkshake.</change>
+		<version>1.0.9</version>
+        <change>added icons for Dash API Docs and FTL.</change>
+		<version>1.0.8</version>
+        <change>added icon for Lyft app.</change>
+		<version>1.0.7</version>
+        <change>removed gas hose from GasCubby icon.</change>
+		<version>1.0.6</version>
+        <change>added icon for GasCubby.</change>
+		<version>1.0.5</version>
+        <change>added the actual Milkshake icon for the BatteryLife tweak to be compatible with the BatteryLife app	from the App Store.</change>
+		<version>1.0.4</version>
+        <change>changed Alien Blue for iPad icon to the actual Milkshake Alien Blue icon as opposed to a custom one.</change>
+		<version>1.0.3</version>
+        <change>added Google Voice icon.</change>
+		<version>1.0.2</version>
+        <change>added Alien Blue for iPad icon.</change>
+        <version>1.0.1</version>
+        <change>added support for Icon Bundles mask</change>
+		<version>1.0.0</version>
+        <change>Initial release</change>
+    </changes>
+</changelog>
