@@ -4,7 +4,6 @@
     <version>1.1.4</version>
     <compatibility>
         <firmware>
-            <miniOS>7.0</miniOS>
             <maxiOS>11.0</maxiOS>
             <otherVersions>unconfirmed</otherVersions>
             <!--
@@ -18,10 +17,8 @@
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
-		<changes>
 			<version>1.1.4</version>
 			<change>added icon for Bound</change>
-		</changes>
     </changelog>
     <links></links>
 </package>
