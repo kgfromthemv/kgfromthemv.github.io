@@ -12,13 +12,18 @@
             -->
         </firmware>
     </compatibility>
-    <dependencies>mobilesubstrate</dependencies>
+    <dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
     <descriptionlist>
         <description>I'm hosting MFiWrapper here because it isn't on a repo. Not that I could find anyway. </description> 
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
-        <change>Initial Release</change>
+		<changes>
+			<version>0.0.1-2</version>
+			<change>Initial Release</change>
+		</changes>
     </changelog>
     <links></links>
 </package>

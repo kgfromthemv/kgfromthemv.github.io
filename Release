@@ -1,8 +1,8 @@
-Origin: kgfromthemv's Repo
-Label: kgfromthemv's Repo
+Origin: kgfromthemv
+Label: kgfromthemv
 Suite: stable
 Version: 1.0
-Codename: kgfromthemv
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: kgfromthemv's Repo
