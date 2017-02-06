@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: kgfromthemv <kgfromthemv@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/theme_addons/com.kgfromthemv.milkshakeaddons.deb
-Size: 750748
-MD5sum: 0cdb725e62c4f1705b04b1437e2387fa
-SHA1: bba5ad09ef5341c75f77ed0f05fc48ff0be904bf
-SHA256: 560de7be57c34334e5d84ae2ad834ae7b78f2ee96fdd4d706bc4dba4797e5a97
+Size: 750596
+MD5sum: 06bd847f7568860c24dcc1d679b4b991
+SHA1: d8e2549bc27a9295e27f097d666d406107fdef65
+SHA256: 022ec95876c8becd230fb3d75ecec0d9dec186dc657be7a64c6cc1534e943a53
 Section: Themes
 Description: Custom Addons for the Milkshake theme for icons which don't have a theme'd icon.
 Author: kgfromthemv <kgfromthemv@gmail.com>
@@ -21,10 +21,10 @@ Architecture: iphoneos-arm
 Maintainer: meancoot
 Depends: mobilesubstrate
 Filename: ./debs/tweaks/com.themeanest.mfiwrapper.deb
-Size: 49930
-MD5sum: 342ac9d927ba5f35190e2ef6c391ac20
-SHA1: a1b4b1ac402b01b4a89a664ab2a4ab3310c377cc
-SHA256: ab67e8cb1a87029f7cc13cd71d162293c1dd9b7052474f744db3026fbe67b4f8
+Size: 49892
+MD5sum: 5974dbb2e7c31923ed624303603e3147
+SHA1: 59eb783c87ac2dd4d60212bb595152c51ee554ec
+SHA256: 5d90da13bfcdd0ebc138b83a9b58d9ecff9ab40a68bfed537ec6a49a7b1cf249
 Section: Tweaks
 Description: BTstack based MFi controller wrapper
 Author: meancoot
