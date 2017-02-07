@@ -3,12 +3,12 @@
         <link>
             <name>Follow me on Twitter</name>
             <url>https://twitter.com/kgfromthemv</url>
-            <iconclass>glyphicon glyphicon-user</iconclass>
+            <iconclass>glyphicon glyphicon-cloud</iconclass>
         </link>
         <link>
             <name>Message me on Reddit</name>
             <url>https://www.reddit.com/message/compose?to=kgfromthemv&subject=</url>
-            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+            <iconclass>glyphicon glyphicon-envelope</iconclass>
         </link>
     </footerlinks>
 </repo>

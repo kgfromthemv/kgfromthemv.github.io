@@ -4,6 +4,7 @@
     <version>1.1.5</version>
     <compatibility>
         <firmware>
+            <miniOS>7.0</miniOS>
             <maxiOS>11.0</maxiOS>
             <otherVersions>unconfirmed</otherVersions>
             <!--
@@ -11,7 +12,9 @@
             -->
         </firmware>
     </compatibility>
-    <dependencies>com.anemonetheming.anemone</dependencies>
+    <dependencies>
+      <package>com.anemonetheming.anemone</package>
+    </dependencies>
     <descriptionlist>
         <description>Custom added icons for the Milkshake theme. Only for those icons which weren't theme'd by the creator.</description>
     </descriptionlist>
@@ -20,5 +23,10 @@
 			<version>1.1.5</version>
 			<change>moved package to kgfromthemv.github.io from YouRepo</change>
     </changelog>
-    <links></links>
+    <links>
+          <link>
+			       <name>/r/jailbreak</name>
+			       <url>https://www.reddit.com/r/jailbreak</url>
+		      </link>
+    </links>
 </package>
