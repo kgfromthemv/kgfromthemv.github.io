@@ -7,7 +7,7 @@
         </link>
         <link>
             <name>Message me on Reddit</name>
-            <url>https://www.reddit.com/message/compose?to=kgfromthemv&subject=</url>
+            <url>https://www.reddit.com/message/compose?to=kgfromthemv&amp;subject=</url>
             <iconclass>glyphicon glyphicon-envelope</iconclass>
         </link>
     </footerlinks>
