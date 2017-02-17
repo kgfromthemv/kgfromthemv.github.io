@@ -1,5 +1,11 @@
 <changelog>
 		<changes>
+		<version>1.1.6</version>
+		<change>Fixed Icons for Bound, Maverik and Apple TV Remote to be more in line with Milkshake</change>
+		<change>Added Icons for KSL Classified, Shopkick and Letgo</change>
+		</changes>
+		<changes>
+		<changes>
 		<version>1.1.5</version>
 		<change>moved package to kgfromthemv.github.io from YouRepo</change>
 		</changes>
