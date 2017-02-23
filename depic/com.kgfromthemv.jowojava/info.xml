@@ -1,0 +1,36 @@
+<package>
+    <id>com.kgfromthemv.jowojava</id>
+    <name>Jowo (Java)</name>
+    <version>0.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <maxiOS>11.0</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies>
+      <package>Anemone</package>
+    </dependencies>
+    <descriptionlist>
+        <description>Jowo Icon Pack originally released by Martda Lazuardi on Google+. See link below for more information. I only re-named the image files, and packaged the icon as a theme for iOS Jailbreak. All design credit goes to Martda Lazuardi.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+			<version>0.1</version>
+			<change>Test Version with 1 icon(Calendar icon) to test initial configuration, since I didn't create the icons.</change>
+    </changelog>
+    <links>
+          <link>
+			       <name>/r/jailbreak</name>
+			       <url>https://www.reddit.com/r/jailbreak</url>
+		      </link>
+          <link>
+              <name>Martda Lazuardi on Google+</name>
+              <url>https://plus.google.com/104918213982839028931</url>
+          </link>
+    </links>
+</package>
