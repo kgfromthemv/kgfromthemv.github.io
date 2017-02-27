@@ -1,0 +1,38 @@
+<package>
+    <id>com.kgfromthemv.oneplus2</id>
+    <name>LockGlyph - OnePlus 2</name>
+    <version>2.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <maxiOS>11.0</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies>
+      <package>LockGlyph</package>
+      <package>LockGlyphX</package>
+    </dependencies>
+    <descriptionlist>
+        <description>LockGlyph theme by /u/hellomisterjedi on reddit. Uploading for hosting purposes. I am not the original artist.</description>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description></description>
+            <image>1.jpeg</image>
+        </screenshot>
+    </screenshots>
+    <changelog>
+			<version>2.0</version>
+			<change>Initial Release, for hosting purposes only.</change>
+    </changelog>
+    <links>
+          <link>
+			       <name>/r/jailbreak</name>
+			       <url>https://www.reddit.com/r/jailbreak</url>
+		      </link>
+    </links>
+</package>

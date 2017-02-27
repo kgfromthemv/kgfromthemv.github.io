@@ -1,7 +1,7 @@
 <package>
     <id>com.kgfromthemv.milkshakeaddons</id>
     <name>Milkshake Addons</name>
-    <version>1.1.7</version>
+    <version>1.1.8</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
@@ -18,7 +18,17 @@
     <descriptionlist>
         <description>Custom added icons for the Milkshake theme. Only for those icons which weren't theme'd by the creator.</description>
     </descriptionlist>
-    <screenshots></screenshots>
+    <screenshots>
+        <screenshot>
+            <description>My icons pictured: Workday, MyFitnessPal, Narwahl</description>
+            <image>1.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description>My icons pictured: Fandango, Mario Run, Google Voice, LoL Friends, Discord, Vasa Fitness, myDlink Lite</description>
+            <description>Apple TV Remote, TeamViewer, Torguard, GasCubby, Best Buy, Red Laser, Bound</description>
+            <image>2.PNG</image>
+        </screenshot>
+    </screenshots>
     <changelog>
 			<version>1.1.8</version>
 			<change>Added icons for Bodybuilding Store, League of Legends Friends, Workday and Torguard</change>
