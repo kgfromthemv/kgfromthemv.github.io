@@ -5,9 +5,9 @@ Maintainer: kgfromthemv <kgfromthemv@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/themes/com.kgfromthemv.jowojava.deb
 Size: 9172
-MD5sum: 60ac65601bcc3624fa47cde767c18402
-SHA1: 8f0672af3a4f358e3cf55589c877f9234bbf486b
-SHA256: 31b9706888e5c720edafd9bd613cb8212f5b5e9edcbc438e94c4290287bfa8c8
+MD5sum: 4a5357359062d0b76e0d57fdc9d0bbb4
+SHA1: 83ec7cdce0dccc88666d3770d49ed5aac8832d10
+SHA256: 5080cc0038b5d8b394733eccd388ef2c5b2cb771d9d51c2454a23148a6996cfd
 Section: Themes
 Description: Jowo Icon Pack originally released by Martda Lazuardi on Google+. See link below for more information. I only re-named the image files, and packaged the icon as a theme for iOS Jailbreak. All design credit goes to Martda Lazuardi.
 Author: Martda Lazuardi
@@ -16,15 +16,15 @@ Name: Jowo (Java)
 Sponsor: kgfromthemv <kgfromthemv@gmail.com>
 
 Package: com.kgfromthemv.milkshakeaddons
-Version: 1.1.7
+Version: 1.1.8
 Architecture: iphoneos-arm
 Maintainer: kgfromthemv <kgfromthemv@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/theme_addons/com.kgfromthemv.milkshakeaddons.deb
-Size: 869362
-MD5sum: e663c5e7c189c0964c59b0a3e7e7ad24
-SHA1: 020d2d7b527f1f4a02f0d3304b7ecf9c0d211841
-SHA256: 648a45e3b3bc6d431e1c9bfc15007d4626932110576421a746f3d7e130056916
+Size: 1069176
+MD5sum: 452c118aea39051c143bd2735ff71ebc
+SHA1: 907b7661010503862941a537193a085ddc62c240
+SHA256: cd81af309c7c2d21a849b5b78933a34bf4e18c08e75a1b76560aa37bad455565
 Section: Themes
 Description: Custom Addons for the Milkshake theme for icons which don't have a theme'd icon.
 Author: kgfromthemv <kgfromthemv@gmail.com>
@@ -39,9 +39,9 @@ Maintainer: meancoot
 Depends: mobilesubstrate
 Filename: ./debs/tweaks/com.themeanest.mfiwrapper.deb
 Size: 49892
-MD5sum: 636eaf574a1529a2fc8d112f42b8d4ff
-SHA1: df797ea4ef1ec0f2d990107e30fd95e80f9f6e14
-SHA256: a1933dfe59fd9c0ecb61dd2758b19b0ce56c065c135879c97a836ed6c05d5a06
+MD5sum: 02470759b9df1e342ace29ee80d9ba6b
+SHA1: f89dec61642f428ec5fe3234eaf23de3475b2405
+SHA256: 3ec63085fd7bf1c00c865bd2f5c29c9e3fe7b594d25db3d94ee8a68c90417d8f
 Section: Tweaks
 Description: BTstack based MFi controller wrapper
 Author: meancoot
