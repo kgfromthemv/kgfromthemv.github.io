@@ -1,0 +1,67 @@
+Package: com.kgfromthemv.jowojava
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: kgfromthemv <kgfromthemv@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/themes/com.kgfromthemv.jowojava.deb
+Size: 9172
+MD5sum: aefc2312f09d50959bc74abe97fa04c6
+SHA1: 08c2dd0cc578bfce78926d93c3a01fb7785b9366
+SHA256: 7a9dfe1959cd89ec4a6fc7b04ad5e58c9443215cd2c6a74587d4b4b393c73a17
+Section: Themes
+Description: Jowo Icon Pack originally released by Martda Lazuardi on Google+. See link below for more information. I only re-named the image files, and packaged the icon as a theme for iOS Jailbreak. All design credit goes to Martda Lazuardi.
+Author: Martda Lazuardi
+Depiction: https://kgfromthemv.github.io/depic/?p=com.kgfromthemv.jowojava
+Name: Jowo (Java)
+Sponsor: kgfromthemv <kgfromthemv@gmail.com>
+
+Package: com.kgfromthemv.milkshakeaddons
+Version: 1.1.9
+Architecture: iphoneos-arm
+Maintainer: kgfromthemv <kgfromthemv@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/theme_addons/com.kgfromthemv.milkshakeaddons.deb
+Size: 1055686
+MD5sum: 3a9b7d9a5bc92568f1cf271b8c56df1c
+SHA1: c5e655d6089a46359b4e7d4c9154c2dfd50de0e0
+SHA256: 68ec7c5700933eea61e994d4e56508fcecd2553501c453f8838fc10d648790e5
+Section: Themes
+Description: Custom Addons for the Milkshake theme for icons which don't have a theme'd icon.
+Author: kgfromthemv <kgfromthemv@gmail.com>
+Depiction: https://kgfromthemv.github.io/depic/?p=com.kgfromthemv.milkshakeaddons
+Name: Milkshake Custom Addons
+Sponsor: kgfromthemv <kgfromthemv@gmail.com>
+
+Package: com.kgfromthemv.oneplus2
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: kgfromthemv <kgfromthemv@gmail.com>
+Depends: com.evilgoldfish.lockglyph | com.evilgoldfish.lockglyphx | xyz.evilgoldfish.lockglyphx
+Filename: ./debs/themes_lockglyph/com.kgfromthemv.oneplus2.deb
+Size: 88684
+MD5sum: 9d721e1c11f60b61429b307834c60553
+SHA1: 0c69b4d40d89a622f1456407b537e44e8ce19b39
+SHA256: 6c5764ee0bcc4d1c42c831425e243148a9f31538624bc4e34039e65e164e77f9
+Section: LockGlyph Themes
+Description: LockGlyph theme by /u/hellomisterjedi on reddit. Uploading for hosting purposes.
+Author: kgfromthemv <kgfromthemv@gmail.com>
+Depiction: https://kgfromthemv.github.io/depic/?p=com.kgfromthemv.oneplus2
+Name: LockGlyph - OnePlus 2
+Sponsor: kgfromthemv <kgfromthemv@gmail.com>
+
+Package: com.themeanest.mfiwrapper
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: meancoot
+Depends: mobilesubstrate
+Filename: ./debs/tweaks/com.themeanest.mfiwrapper.deb
+Size: 49892
+MD5sum: 26feaa61f3de94ae00922b06e8448f3c
+SHA1: 2342291b41aec856dd1e42f69ea0c96b77a8469d
+SHA256: ed021e2ab0ff6e87805c58c25246ee871d1c6ef092dc6e67849ac0422cec70d0
+Section: Tweaks
+Description: BTstack based MFi controller wrapper
+Author: meancoot
+Depiction: https://kgfromthemv.github.io/depic/?p=com.themeanest.mfiwrapper
+Name: MFiWrapper
+
