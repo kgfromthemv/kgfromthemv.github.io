@@ -1,5 +1,18 @@
 body {
-    align: center;
+    text-align: center;
     background-color: #323335;
     color: #e5e5e5;
   };
+
+a:link {
+    color: #ff8f26;
+
+};
+
+a:visited {
+    color: #fcfc25;
+}
+
+a:hover {
+    color: #fc3923;
+}
