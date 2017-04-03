@@ -5,9 +5,15 @@ Maintainer: kgfromthemv <kgfromthemv@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/themes/com.kgfromthemv.jowojava.deb
 Size: 9172
+<<<<<<< HEAD
 MD5sum: 6632c4dad0cbfbfbfcde564ec1f5ca5d
 SHA1: ee6ad108d380a37517e106ed2227cc478004c222
 SHA256: 0c8ef1f5c8c1129cfd55ba75751f75a81e030125f4d749d83055cdd7f1dd4b7c
+=======
+MD5sum: 15f0a6972f7d9dc74a2bc09d283aaf9e
+SHA1: 6e3339904c7b602fa9f28520e6cd3d6deefcd0da
+SHA256: e015a0fbb8a94b4650abb366d035c0de7641a3b63cbcaab062cb8da70def90c7
+>>>>>>> origin/master
 Section: Themes
 Description: Jowo Icon Pack originally released by Martda Lazuardi on Google+. See link below for more information. I only re-named the image files, and packaged the icon as a theme for iOS Jailbreak. All design credit goes to Martda Lazuardi.
 Author: Martda Lazuardi
@@ -22,9 +28,15 @@ Maintainer: kgfromthemv <kgfromthemv@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/theme_addons/com.kgfromthemv.milkshakeaddons.deb
 Size: 1062148
+<<<<<<< HEAD
 MD5sum: 30eec750c29a67985583f08ce2ed1a52
 SHA1: 7d6ada70fb70ad4847ac0de5d911794be9b60117
 SHA256: c971b6579e5d583566f6cecb509b2c994f9f5e7358bd88c0fd509d7abb160e36
+=======
+MD5sum: cf15ac706b32dd5092ebdd0135010bd1
+SHA1: 937721e98a47067387b1e7cda4e743f0a1b1426b
+SHA256: 945911f18e9940421706ea0d3a96f2dddac5bc31d71c97e06e21b8d14b04cb91
+>>>>>>> origin/master
 Section: Themes
 Description: Custom Addons for the Milkshake theme for icons which don't have a theme'd icon.
 Author: kgfromthemv <kgfromthemv@gmail.com>
@@ -39,9 +51,15 @@ Maintainer: kgfromthemv <kgfromthemv@gmail.com>
 Depends: com.evilgoldfish.lockglyph | com.evilgoldfish.lockglyphx | xyz.evilgoldfish.lockglyphx
 Filename: ./debs/themes_lockglyph/com.kgfromthemv.oneplus2.deb
 Size: 88684
+<<<<<<< HEAD
 MD5sum: 559bff624703e88aaec9ea84afed7140
 SHA1: 92fd9d2dccd0b6ecf6bb0f3652302f1e7b197e6e
 SHA256: 067fa3d4554e403dcdde3cbe80f5374eb3dce16eb84dc230b7d1e65798349fb9
+=======
+MD5sum: abb6317b563422fbf7866c4855b346e2
+SHA1: b991205ead1da54d8bdcb95bef10d298eb951104
+SHA256: 01c24da29368fd89b46c0fd833f32edd76207761ac49d51a2b74e101eb924fb1
+>>>>>>> origin/master
 Section: LockGlyph Themes
 Description: LockGlyph theme by /u/hellomisterjedi on reddit. Uploading for hosting purposes.
 Author: kgfromthemv <kgfromthemv@gmail.com>
@@ -56,9 +74,15 @@ Maintainer: meancoot
 Depends: mobilesubstrate
 Filename: ./debs/tweaks/com.themeanest.mfiwrapper.deb
 Size: 49892
+<<<<<<< HEAD
 MD5sum: a7f1f8fae1e224dad97ab5babb2b62d3
 SHA1: 95eafaf31d96004ce4cf449b8d591734786d0c32
 SHA256: d0fe1c1e0db058a915aaaa9ac06658a8b2a0ff7918e9f880fda91f4ff44979fc
+=======
+MD5sum: 3a7d8f834289cce913033a6adfc54942
+SHA1: 3a8e8c79b2d35bad41a3b26b13dd7f4e93638c4a
+SHA256: 6ebab6808f234b11fab95b162b06c6a0024cb874660dd8be106e315e8b280770
+>>>>>>> origin/master
 Section: Tweaks
 Description: BTstack based MFi controller wrapper
 Author: meancoot

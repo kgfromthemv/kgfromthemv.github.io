@@ -1,4 +1,8 @@
 <changelog>
+	  <changes>
+	  <version>1.2</version>
+	  <change>Added icon for Seek and fixed Fandango.</change>
+	  </changes>
 		<changes>
 		<version>1.1.9</version>
 		<change>Altered the ALT icon for Apple TV Remote to have the glyph be slightly smaller as it was too big.</change>
