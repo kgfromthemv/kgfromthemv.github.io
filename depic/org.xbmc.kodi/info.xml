@@ -1,0 +1,27 @@
+<package>
+    <id>org.xbmc.kodi</id>
+    <name>Kodi for iOS</name>
+    <version>17.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <maxiOS>11.0</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies><!--add dependencies, if any --></dependencies>
+    <descriptionlist>
+        <description>Kodi for iOS, hosted here for simplification of installation process. Visit kodi.tv for more info.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>visit kodi.tv for more info</change>
+    </changelog>
+    <links>
+      <name>Kodi.tv</name>
+      <url>https://kodi.tv/</url>
+    </links>
+</package>

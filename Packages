@@ -5,9 +5,9 @@ Maintainer: kgfromthemv <kgfromthemv@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/themes/com.kgfromthemv.jowojava.deb
 Size: 9172
-MD5sum: aefc2312f09d50959bc74abe97fa04c6
-SHA1: 08c2dd0cc578bfce78926d93c3a01fb7785b9366
-SHA256: 7a9dfe1959cd89ec4a6fc7b04ad5e58c9443215cd2c6a74587d4b4b393c73a17
+MD5sum: 6632c4dad0cbfbfbfcde564ec1f5ca5d
+SHA1: ee6ad108d380a37517e106ed2227cc478004c222
+SHA256: 0c8ef1f5c8c1129cfd55ba75751f75a81e030125f4d749d83055cdd7f1dd4b7c
 Section: Themes
 Description: Jowo Icon Pack originally released by Martda Lazuardi on Google+. See link below for more information. I only re-named the image files, and packaged the icon as a theme for iOS Jailbreak. All design credit goes to Martda Lazuardi.
 Author: Martda Lazuardi
@@ -16,15 +16,15 @@ Name: Jowo (Java)
 Sponsor: kgfromthemv <kgfromthemv@gmail.com>
 
 Package: com.kgfromthemv.milkshakeaddons
-Version: 1.1.9
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: kgfromthemv <kgfromthemv@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/theme_addons/com.kgfromthemv.milkshakeaddons.deb
-Size: 1055686
-MD5sum: 3a9b7d9a5bc92568f1cf271b8c56df1c
-SHA1: c5e655d6089a46359b4e7d4c9154c2dfd50de0e0
-SHA256: 68ec7c5700933eea61e994d4e56508fcecd2553501c453f8838fc10d648790e5
+Size: 1062148
+MD5sum: 30eec750c29a67985583f08ce2ed1a52
+SHA1: 7d6ada70fb70ad4847ac0de5d911794be9b60117
+SHA256: c971b6579e5d583566f6cecb509b2c994f9f5e7358bd88c0fd509d7abb160e36
 Section: Themes
 Description: Custom Addons for the Milkshake theme for icons which don't have a theme'd icon.
 Author: kgfromthemv <kgfromthemv@gmail.com>
@@ -39,9 +39,9 @@ Maintainer: kgfromthemv <kgfromthemv@gmail.com>
 Depends: com.evilgoldfish.lockglyph | com.evilgoldfish.lockglyphx | xyz.evilgoldfish.lockglyphx
 Filename: ./debs/themes_lockglyph/com.kgfromthemv.oneplus2.deb
 Size: 88684
-MD5sum: 9d721e1c11f60b61429b307834c60553
-SHA1: 0c69b4d40d89a622f1456407b537e44e8ce19b39
-SHA256: 6c5764ee0bcc4d1c42c831425e243148a9f31538624bc4e34039e65e164e77f9
+MD5sum: 559bff624703e88aaec9ea84afed7140
+SHA1: 92fd9d2dccd0b6ecf6bb0f3652302f1e7b197e6e
+SHA256: 067fa3d4554e403dcdde3cbe80f5374eb3dce16eb84dc230b7d1e65798349fb9
 Section: LockGlyph Themes
 Description: LockGlyph theme by /u/hellomisterjedi on reddit. Uploading for hosting purposes.
 Author: kgfromthemv <kgfromthemv@gmail.com>
@@ -56,12 +56,27 @@ Maintainer: meancoot
 Depends: mobilesubstrate
 Filename: ./debs/tweaks/com.themeanest.mfiwrapper.deb
 Size: 49892
-MD5sum: 26feaa61f3de94ae00922b06e8448f3c
-SHA1: 2342291b41aec856dd1e42f69ea0c96b77a8469d
-SHA256: ed021e2ab0ff6e87805c58c25246ee871d1c6ef092dc6e67849ac0422cec70d0
+MD5sum: a7f1f8fae1e224dad97ab5babb2b62d3
+SHA1: 95eafaf31d96004ce4cf449b8d591734786d0c32
+SHA256: d0fe1c1e0db058a915aaaa9ac06658a8b2a0ff7918e9f880fda91f4ff44979fc
 Section: Tweaks
 Description: BTstack based MFi controller wrapper
 Author: meancoot
 Depiction: https://kgfromthemv.github.io/depic/?p=com.themeanest.mfiwrapper
 Name: MFiWrapper
+
+Package: org.xbmc.kodi
+Version: 17.1
+Architecture: iphoneos-arm
+Maintainer: kgfromthemv <kgfromthemv@gmail.com>
+Filename: ./to_be_packaged/org.xbmc.kodi.deb
+Size: 49889276
+MD5sum: 82e6c93d0e926be81e9fc666fa166ce4
+SHA1: 0332e163498d3f181c79bf1bacec65dd9a953061
+SHA256: d2207e86b42d983a8995fde5cecfdbb48865dcf69bbe85a464a5e2f59408b1d6
+Section: Apps
+Description: Kodi for iOS v. 17.1 "Krypton"
+Author: kodi
+Depiction: https://kgfromthemv.github.io/depic/?p=org.xbmc.kodi
+Name: Kodi for iOS
 
